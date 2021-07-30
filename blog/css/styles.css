@@ -4811,7 +4811,7 @@ body.search-is-visible {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-    padding-top: var(--vspace-4);
+    padding-top: var(--vspace-1);
     padding-bottom: var(--vspace-2);
     font-size: var(--text-sm);
     line-height: calc(0.8125 * var(--space));
